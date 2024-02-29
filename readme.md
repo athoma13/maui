@@ -14,3 +14,6 @@ adb install bin/Release/net8.0-android/com.companyname.maui-Signed.apk
 ```
 adb logcat -s DBG:*
 ```
+```
+./bin/Release/net8.0-windows10.0.19041.0/win10-x64/maui.exe
+```
